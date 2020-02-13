@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffmmatthewzeemann%2Fgitops-tutorial.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffmmatthewzeemann%2Fgitops-tutorial?ref=badge_shield)
+
 Kubecon Seattle 2018 Gitops Tutorial
 ====================================
 
@@ -365,3 +367,7 @@ You can find much more about Gitops online.
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffmmatthewzeemann%2Fgitops-tutorial.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffmmatthewzeemann%2Fgitops-tutorial?ref=badge_large)
